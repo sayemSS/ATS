@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+# - google-genai          
+pdfplumber
+python-docx
+python-multipart
+python-dotenv          
